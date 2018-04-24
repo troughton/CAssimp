@@ -1,5 +1,5 @@
 module CAssimp [system] {
-  header "/usr/local/include/assimp/cimport.h"
+  header "assimp.h"
   link "assimp"
   export *
 }
